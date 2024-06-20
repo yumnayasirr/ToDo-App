@@ -4,9 +4,13 @@ It allows users to add, remove, and view tasks, and it saves tasks to a CSV file
 **Features**
 
 Add Task: Allows users to add new tasks with descriptions.
+
 Remove Task: Enables users to remove tasks by description.
+
 Task Persistence: Saves tasks to a CSV file and loads them from the file upon startup.
+
 Task Completion: Users can mark tasks as completed.
+
 Login System: Basic login system to secure task management.
 
 
