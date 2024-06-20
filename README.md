@@ -39,13 +39,17 @@ The task status will be saved automatically.
 
 ToDo:
 Entry point of the application. It initializes the login window.
+
 Task:
 Represents a task with a description and a completion status.
+
 ToDoManager:
 Manages the list of tasks, including adding, removing, loading from file, and saving to file.
+
 Login:
 Implements a basic login window using JFrame.
 Verifies username and password and opens the main task management GUI upon successful login.
+
 ToDoManagerGUI:
 Implements the main task management GUI using JFrame.
 Allows users to add and remove tasks and mark tasks as completed.
