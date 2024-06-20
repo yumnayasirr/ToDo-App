@@ -9,16 +9,6 @@ Task Persistence: Saves tasks to a CSV file and loads them from the file upon st
 Task Completion: Users can mark tasks as completed.
 Login System: Basic login system to secure task management.
 
-Project Structure
-.
-├── src
-│   └── todo
-│       ├── ToDo.java
-│       ├── Task.java
-│       ├── ToDoManager.java
-│       ├── Login.java
-│       └── ToDoManagerGUI.java
-└── Task.csv
 
 
 **Usage**
